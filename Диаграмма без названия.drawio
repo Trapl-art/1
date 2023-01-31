@@ -1,1 +1,981 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T06:54:01.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="6fsAqHC_MMNE4Om0FCcS" version="20.8.10" type="github"><diagram name="Страница 1" id="M4ItLLKpe13sCiYE9jqX">7V1Lc6M4EP4te3DV5OAt3jZH7Dg7l5nZqqndOU4phthUMHgxiZP99SvQgxbC3mRmcItULgS3BIjur1vdrRaZuMvd0x8l2W8/FXGSTRwrfpq41xPHmdshPdaEZ0bwfJ8RNmUaM5LdEr6m/yacaHHqQxonB6VjVRRZle5V4rrI82RdKTRSlsVR7XZXZOpT92STaISva5Lp1G9pXG0Z1XUtq234mKSbLX+0F8z5JTsievOuhy2JiyMguauJuyyLomJnu6dlktXME4xh192caJUjK5O8eskFq+DP8Esy+2x/yb5VzuNf393kecrv8kiyB/7Gk2trEnn1cTFvjivaPrm2J/TF2M/63GmOjO42dHbJNbgwao7i7atnwdOyeMjjpB6VNXEXx21aJV/3ZF23HimIKG1b7TL6y6anfHxJWSVPJ1/cluykOEyKXVKVz7SLuMCZ80FwELpWwAnHVqa2kNMWiFP0IxxGG3nzltH0hPP6FXx3evkeOoB9nuC7C7i/ABx3eWd0/nqWcfx1+3EdNCzzAVTpAKwPGpjt36/w2Rp4xrHV64etYGUL3qXG6FVzdEBPaCv80YDdd4yTiv9SIy6N8kJhPRcGM+tmmOxZYByXQ53LTpDRpy729eOydJM35OCfh3pKX6zpuyZl+7v2UjJyOCidPh2Kz0W5IxnsF2yav7Vm+cI0yZnXA0LzuU4x2YYeUL25Ok1LaYeiswWaIqCVXkNfKvdvbzgT70xZuJcjRYeLNsNLaKDBRXiwl8ULRMcNkLAvzKo0rnMgW2m/aeuNAMgK2OAlsMGW6ADR4WqmREeQnHBHgSDHQ0dQj3PuBBMKbouJvWHjYU9yhXcST0VWlBM3oo3l5vYDHSUdhiX+XDGE3RV5Nb0juzR7Zl0/JtljUqVrAtoPTVhWt9rO/gk2sIfWLTlDZdv2SMqU0L8U56R6KOsg7my/Ndmf6nLk3K4ba1+zacmSiqrLlL7+Os03+pVFud+SnN/SYTSKj2rKNa8m0zvf3qf02Uz12j4pBV/On2iJV25aqpLe9I4+RzwxT1grhUkTbYLHHYsyVgco7yWe3NzzUJXFfTLlQFP63ZL1/aZRhmlHno5vM1HCkysw0jhZFyWp0iKfVtt0fZ8nBz68NE+rVPCp2xfI9Gw/MByl311WkKrLnDg97DPyLLpnKW1wrN/S3b4oK5JzMza2CZCpnrBgUDPbU+Psmj1Ht2s9we/wM+MNmON8IG4oYksFkgXiwqU6Ob4EaeOd+2R6Cw8j/QG8KVI0T2Lo4ZHdkxsYXKsjG2BgqWYptcwDE/r/XqJ0g9MP9HHHGxl5+JFRT75iePuvZ6alxncyVZGSMQktIGroe0hHwhduiYywZJZL0sceT3v4XkNwFjV6/HNLvW8aIAA/lYYaH6ZTSL/qOJ5DgI8Pso5kft0475j0W9rfSRmTnPSDX0nKzgGSAxWWFJALTmlhyQauvoyKVuQXPDVUbCXSlkUMcL1n70r0rkTjViJ8/2WO4L/8FPoM8iw0eRqQZ8VY2Xmz8sTPHYiHdXIHP8Jx87iLHuc7vasSQ2sLjJ/kujaVVACkeQ2C+QjQx6I5+JG505eZxeaTVnCB70Y7PdlJjrHbsutSvYTS73wry1U9ajScn62sbLT6p9ftRI3OrXiW7OTSyEl/98fY1c/AgUwPXBy3wHkI2HC+rKmTiXS1vFP46y1UrXPpmmQRZ8oujeMsGUwl8U0XRvpZpgrbFQa4HBGpUxRYeagL2SwAiUhD1/w16LLVRVJ5yWDoGgRE+JGAg5GZVmxrpICFeafjkJ4Bfv/5DLGx04NepAW7NRZkJBDAD07O5zeNmgVkKcsceAUuuMkJx8k4sRsQt1w6I2c31s5E6WibBgyIli6dX5v7oxEOuuq4ly5Tno1Gc/D9UffSuTbbH4108P1Nty9bNqR0wvEIB90TdE+n6Aaza2ORDr7D5mJka3jxKExcspI+scdFKfiCcZ1e1WVr7ry8v68VksKUjNGFwNquO3zn0UUpFtR3SeobWvUywU7lcLvBGMBqAe4TAShB0HlvAzv4VgYjIRR2LEsHDrLs84Wb7N7URgMNIwa42BgZo1bs0KZICEQaanqNSF+HV5StjwspBrj7GGVf7z7L65GCH3ugfCrgtTOFtCkRwMgZ/0W3We7IkYIfB3mX91A6qxML4H12/FF91cJEqeplVOgxi4fhU7CZn9nz0Jo2grtRDboUqKyjG+uKE76IL+0MOLOZoWZVTy/hSwdlAo7AdHgDzGrfLlT+pTdofWFZq621ygv1fYwrrfNo9hnqUzI6dvxLL4g1Uj1VJ9LZu6wb9DNIWWpxwLwvMpDPXY0FNdruVB89jeCjVMW/1T0kBsjTwZDnLykGhcq8UCyFkcLXnDsDhH/ptUN7Fo7FuTNAOihrh+/O3c87dwZgB2U10XDnTt9NYxaONHcvQF8L8FFKzd+qu2eAPC+fsZPqDXUVfl8I7gNQP82q5PWEMtNjCL/vKr++byIENKfPAAhcPKMXjKZgzADpvGf0Rur0DYkd+rP9/ylNG/gvNO7qPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-31T06:34:39.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d1s7IViQ0Jg2Sct_LlRk" version="20.8.13" type="github">
+  <diagram name="Страница 1" id="M4ItLLKpe13sCiYE9jqX">
+    <mxGraphModel dx="2074" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-1" value="Фио сотрудника" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-3" value="Цена (руб.)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-4" value="Наименование услуги" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-5" value="Фио клиента" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-9" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Ерофеев Дмитрий Аркадьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-10" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Депрессивная Ольга Евгеньевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-11" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ерофеев Дмитрий Аркадьевич&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-12" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-13" value="Пахаева Дарья Дмитриевна" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-14" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Самсонов Самсон Сергеевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-15" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Никитенко Авдей Ефстафьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-22" value="наращивание ногтей" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-24" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция и окрашивание бровей&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-25" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;макияж&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-26" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;наращивание ресниц&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-27" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция фигуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-28" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1300&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-29" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;850&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-30" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;700&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-31" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1500&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-32" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;900&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-33" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;7000&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-34" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-35" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Клименко Арина Александровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-36" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Кулинич Ольга Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-37" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Оленькина Алина Сергеевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-38" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-39" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Дмитриева Карина Олеговна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-47" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;СПА-процедуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-48" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2770&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-49" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-50" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-52" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;окрашивание волос&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-53" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1790&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-54" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-55" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="2120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-57" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;свадебная причёска&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-58" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2600&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P9Oe7N1OlWt2vU_3ey-59" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-1" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-2" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-3" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-4" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-5" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="4100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-6" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="4160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-7" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-8" value="ФИО_Сотрудника" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-9" value="Ерофеев Дмитрий Аркадьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="3920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-15" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Депрессивная Ольга Евгеньевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="3980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-16" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-17" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Самсонов Самсон Сергеевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-18" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Никитенко Авдей Ефстафьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-19" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-20" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-21" value="ФИО_Клиента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-22" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-23" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-24" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-25" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-26" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-27" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-34" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Клименко Арина Александровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-35" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-36" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Кулинич Ольга Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-37" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Оленькина Алина Сергеевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="4100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-38" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Дмитриева Карина Олеговна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="4160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-39" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-40" value="ID_(РК)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-41" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-42" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-43" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-44" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-45" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-46" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-47" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-48" value="8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-49" value="9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-50" value="ID_C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-51" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-52" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-53" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-54" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-55" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-56" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-57" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-58" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-59" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-60" value="ID_K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-61" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-62" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-63" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-64" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-65" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-66" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-67" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-68" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-69" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-70" value="ID_y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-71" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-72" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-73" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-74" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-75" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-76" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-77" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-78" value="8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-79" value="9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-80" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="4420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-81" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="4480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-82" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-83" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="4600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-89" value="Вид услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="4420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-90" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="4480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-91" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;медицинские&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-92" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;релаксация&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="4600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-93" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-94" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-95" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-96" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-97" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-98" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-99" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-100" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-101" value="8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-102" value="9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-103" value="ID_H" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-104" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-105" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-106" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-107" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-108" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-109" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="4010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-110" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="4070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-111" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="4130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-112" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="4190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-113" value="Наименование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkVjficWqfKIgETy905t-115" target="OkVjficWqfKIgETy905t-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-115" value="Наращивание ногтей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-116" value="Коррекция и окрашивание бровей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-117" value="Макияж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-118" value="Наращивание ресниц" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-119" value="Коррекция фигуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="4010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-120" value="Спа-процедуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="4070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-121" value="Окрашивание волос" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="4130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-122" value="Свадебная прическа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="4190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-123" value="Цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-134" value="Маникюр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-135" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;850&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-145" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1300&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-146" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;700&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-147" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1500&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-148" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;900&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-149" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;7000&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="4010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-150" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2770&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="4070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-151" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1790&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="4130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-152" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2600&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="4190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-153" value="2 Нф" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-154" value="ФИО_Сотрудника" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-155" value="Ерофеев Дмитрий Аркадьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-156" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Депрессивная Ольга Евгеньевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-157" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-158" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Самсонов Самсон Сергеевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-159" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Никитенко Авдей Ефстафьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-160" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-161" value="Вид услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-168" value="маникюр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-169" value="Фио сотрудника" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-170" value="Цена (руб.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-171" value="Наименование услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-172" value="Фио клиента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-173" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Ерофеев Дмитрий Аркадьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-174" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Депрессивная Ольга Евгеньевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-175" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ерофеев Дмитрий Аркадьевич&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-176" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-177" value="Пахаева Дарья Дмитриевна" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-178" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Самсонов Самсон Сергеевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-179" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Никитенко Авдей Ефстафьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-180" value="наращивание ногтей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-181" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция и окрашивание бровей&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-182" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;макияж&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-183" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;наращивание ресниц&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-184" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция фигуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-185" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1300&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-186" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;850&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-187" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;700&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-188" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1500&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-189" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;900&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-190" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;7000&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-191" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-192" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Клименко Арина Александровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-193" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Кулинич Ольга Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-194" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Оленькина Алина Сергеевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-195" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-196" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Дмитриева Карина Олеговна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-197" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;СПА-процедуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-198" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2770&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-199" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-200" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-201" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;окрашивание волос&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-202" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1790&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-203" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-204" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-205" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;свадебная причёска&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-206" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2600&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-207" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-208" value="маникюр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-209" value="коррекция и окрашивание бровей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-210" value="Вид услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-211" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-212" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;медицинские&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-213" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;релаксация&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-214" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-215" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-216" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-217" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-218" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-219" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-220" value="1 НФ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-221" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-224" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-225" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-226" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-227" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-228" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-229" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-230" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-231" value="8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-232" value="9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-252" value="Наименование услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-253" value="наращивание ногтей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-254" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция и окрашивание бровей&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-255" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;макияж&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-256" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;наращивание ресниц&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-257" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция фигуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-258" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;СПА-процедуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-259" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;окрашивание волос&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-260" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;свадебная причёска&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-261" value="маникюр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-262" value="Фио клиента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-263" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-264" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Клименко Арина Александровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-265" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Кулинич Ольга Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-266" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Оленькина Алина Сергеевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-267" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пикуль Анастасия Петровна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-268" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Дмитриева Карина Олеговна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-269" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-270" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-271" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Копанов Владислав Николаевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-274" value="Цена (руб.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-275" value="Наименование услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-276" value="наращивание ногтей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-277" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция и окрашивание бровей&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-278" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;макияж&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-279" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;наращивание ресниц&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-280" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция фигуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-281" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1300&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-282" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;850&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-283" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;700&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-284" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1500&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-285" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;900&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-286" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;7000&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-287" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;СПА-процедуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-288" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2770&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-289" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;окрашивание волос&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-290" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1790&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-291" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;свадебная причёска&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-292" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2600&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-293" value="маникюр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-294" value="ФИО_Сотрудника" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-295" value="Ерофеев Дмитрий Аркадьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-296" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Депрессивная Ольга Евгеньевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-297" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-298" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Самсонов Самсон Сергеевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-299" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Никитенко Авдей Ефстафьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-300" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-301" value="Вид услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-302" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-303" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;медицинские&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-304" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;релаксация&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-305" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-306" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-307" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-308" value="3 НФ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1480" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-309" value="Наименование услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-310" value="наращивание ногтей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-311" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция и окрашивание бровей&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-312" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;макияж&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-313" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;наращивание ресниц&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-314" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;коррекция фигуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-315" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;СПА-процедуры&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-316" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;окрашивание волос&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-317" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;свадебная причёска&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-318" value="маникюр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-319" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-320" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-322" value="Ерофеев Дмитрий Аркадьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-323" value="ФИО_Сотрудника" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-324" value="Ерофеев Дмитрий Аркадьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-325" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Депрессивная Ольга Евгеньевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-326" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Пахаева Дарья Дмитриевна&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-327" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Самсонов Самсон Сергеевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-328" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Никитенко Авдей Ефстафьевич&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-329" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Иванов Ярослав Мстиставович&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-331" value="Вид услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-332" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;медицинские&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-333" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;релаксация&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-334" value="&lt;p style=&quot;border-color: var(--border-color);&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;имиджевые&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Verdana&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-335" value="ID_услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-336" value="01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-337" value="02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-338" value="03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-339" value="01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-340" value="01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-341" value="01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-342" value="01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-343" value="02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-345" value="03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-347" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkVjficWqfKIgETy905t-335" target="OkVjficWqfKIgETy905t-161">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="929.2893218813452" as="sourcePoint" />
+            <mxPoint x="1270" y="879.2893218813452" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="910" />
+              <mxPoint x="810" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkVjficWqfKIgETy905t-349" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkVjficWqfKIgETy905t-323" target="OkVjficWqfKIgETy905t-154">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="1140" as="sourcePoint" />
+            <mxPoint x="1080" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="840" />
+              <mxPoint x="130" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
